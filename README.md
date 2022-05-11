@@ -4,7 +4,7 @@
 
 Atuante em informática há mais de 10(dez) anos como profissional técnico analista. Hoje atuante como *DEV* a pouco mais de 12(doze) meses na implantação e suporte de códigos e projetos tecnológicos na realização de projetos para empresas.
 
-Estudante de Angular, Vue.js, React, Spring boot, *GITHUB e GITLAB*; Banco de dados Oracle - SQL Server - Mysql - Mongodb - Postgresql; Pequenos práticas em *testes unitários TDD*; Utilização da arquitetura REST; Aprimorando estudos em Docker; 
+Estudante de React, *GITHUB e GITLAB*; Banco de dados Oracle - SQL Server - Mysql - Mongodb - Postgresql; Pequenos práticas em *testes unitários TDD*; Utilização da arquitetura REST; Aprimorando estudos em Docker e plataforma Kafka; 
 
 Uso diário *S.O Linux*.
 
