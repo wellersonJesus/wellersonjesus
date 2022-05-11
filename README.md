@@ -1,6 +1,6 @@
 ### Oiii eu sou wellersonJesus!
 
-🔭 Atualmente estou aprendendo e trabalhando como ***BackEnd*** - *Postgres, MySql, MongoDB e NodeJS*. Aprendendo *Java, JavaScript, TypeScript*
+🔭 Atualmente estou aprendendo e trabalhando como ***BackEnd*** - *Postgres, MySql, MongoDB e NodeJS*, Express e Nest. Aprendendo *Java, JavaScript, TypeScript*
 
 Atuante em informática há mais de 10(dez) anos como profissional técnico analista. Hoje atuante como *DEV* a pouco mais de 12(doze) meses na implantação e suporte de códigos e projetos tecnológicos na realização de projetos para empresas.
 
