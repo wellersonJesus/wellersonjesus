@@ -2,13 +2,13 @@
 
 🔭 Atualmente estou aprendendo e trabalhando como ***BackEnd*** - *Postgres, MySql, MongoDB e NodeJS*, Express e Nest. Aprendendo *Java, JavaScript, TypeScript*
 
-Atuante em informática há mais de 10(dez) anos como profissional técnico analista. Hoje atuante como *DEV* a pouco mais de 12(doze) meses na implantação e suporte de códigos e projetos tecnológicos na realização de projetos para empresas.
+Atuante em informática há mais de 10(dez) anos como profissional técnico analista. Hoje trabalhando como *Desenvolvedor* a pouco mais de 07(sete) meses na implantação e suporte de códigos e projetos tecnológicos na realização de projetos para empresas.
 
 Estudante de React, *GITHUB e GITLAB*; Banco de dados Oracle - SQL Server - Mysql - Mongodb - Postgresql; Pequenos práticas em *testes unitários TDD*; Utilização da arquitetura REST; Aprimorando estudos em Docker e plataforma Kafka; 
 
 Uso diário *S.O Linux*.
 
-Profissional em constante evolução, atuante como *Desenvolvedor Node.JS*. Ensino Superior concluído, pela Instituição de Ensino Pitágoras no curso "Redes de Computadores".
+Profissional em constante evolução, como *Desenvolvedor Node.JS*. Ensino Superior concluído, pela Instituição de Ensino Pitágoras no curso "Redes de Computadores".
 
 ##
 
