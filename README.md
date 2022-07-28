@@ -1,3 +1,7 @@
+##
+<a href="https://app.daily.dev/wellerson"><img src="https://api.daily.dev/devcards/7e7906260ddc44399612666e2539a9cd.png?r=upx" width="100" alt="Jesus.Wellerson's Dev Card"/></a>
+##
+
 ### Oiii eu sou wellersonJesus!
 
 🔭 Atualmente estou aprendendo e trabalhando como ***BackEnd*** - *Postgres, MySql, MongoDB e NodeJS*, Express e Nest. Aprendendo *Java, JavaScript, TypeScript*
@@ -9,10 +13,6 @@ Estudante de React, *GITHUB e GITLAB*; Banco de dados Oracle - SQL Server - Mysq
 Uso diário *S.O Linux*.
 
 Profissional em constante evolução, como *Desenvolvedor Node.JS*. Ensino Superior concluído, pela Instituição de Ensino Pitágoras no curso "Redes de Computadores".
-
-##
-<a href="https://app.daily.dev/wellerson"><img src="https://api.daily.dev/devcards/7e7906260ddc44399612666e2539a9cd.png?r=upx" width="100" alt="Jesus.Wellerson's Dev Card"/></a>
-##
 
 ##
 
