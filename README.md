@@ -1,10 +1,5 @@
 ### Oiii eu sou wellersonJesus!
 
-##
-<a href="https://app.daily.dev/wellerson"><img src="https://api.daily.dev/devcards/7e7906260ddc44399612666e2539a9cd.png?r=upx" width="100" alt="Jesus.Wellerson's Dev Card"/></a>
-##
-
-
 🔭 Atualmente estou aprendendo e trabalhando como ***BackEnd*** - *Postgres, MySql, MongoDB e NodeJS*, Express e Nest. Aprendendo *Java, JavaScript, TypeScript*
 
 Atuante em informática há mais de 10(dez) anos como profissional técnico analista. Hoje trabalhando como *Desenvolvedor* a pouco mais de 07(sete) meses na implantação e suporte de códigos e projetos tecnológicos na realização de projetos para empresas.
