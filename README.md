@@ -15,14 +15,6 @@
 
 ##
 
-<div>
-  <a href="https://github.com/wellersonjesus">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wellersonjesus&theme=gruvbox&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellersonjesus&layout=compact&langs_count=7&theme=gruvbox"/>
-</div>
-  
- ##
-
 <div style="display: inline_block">
     <img align="center" alt="Wellerson-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Wellerson-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
