@@ -1,9 +1,9 @@
-### Oiii eu sou wellersonJesus!
+## Oiii eu sou WellersonJesus!
 
-Profissional em evolução, como *Desenvolvedor Node.JS*. Ensino Superior concluído, Instituição de Ensino Pitágoras "Redes de Computadores".
+🔭 Profissional em evolução. Ensino Superior concluído, Faculdade Pitágoras "Redes de Computadores".
 
-🔭 Atualmente desenvolvedor ***BackEnd*** 
-- Inglês: básico escuto, falo e escrevo pouco;
+- Desenvolvedor Node.JS ***BackEnd*** 
+- Inglês: básico;
 - Linguagens de programação: Javascript e Typescript com Node.js, HTML, CSS;
 - Bancos de dados: Postgres, MySql, MongoDB e NodeJS;
 - Bibliotecas: Nest, Express, TypeORM, Prisma, etc;
@@ -12,7 +12,7 @@ Profissional em evolução, como *Desenvolvedor Node.JS*. Ensino Superior conclu
 - Heroku.
 - Testes unitários TDD
 - S.O Linux.
-- 
+
 ##
 
 <div>
