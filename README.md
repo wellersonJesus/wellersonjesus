@@ -1,15 +1,18 @@
 ### Oiii eu sou wellersonJesus!
 
-🔭 Atualmente trabalhando como ***BackEnd*** - *Postgres, MySql, MongoDB e NodeJS*, Express e Nest. Aprendendo *Java, JavaScript, TypeScript*
+Profissional em evolução, como *Desenvolvedor Node.JS*. Ensino Superior concluído, Instituição de Ensino Pitágoras "Redes de Computadores".
 
-Atuante em informática há mais de 10(dez) anos como profissional técnico analista. Hoje como *Desenvolvedor* a pouco mais de 10(dez) meses na implantação e suporte de códigos e projetos tecnológicos na realização de projetos para empresas.
-
-Estudante de React, *GITHUB e GITLAB*; Banco de dados Oracle - SQL Server - Mysql - Mongodb - Postgresql; Pequenos práticas em *testes unitários TDD*; Utilização da arquitetura REST; Aprimorando estudos com Docker e plataforma Kafka; 
-
-Uso diário *S.O Linux*.
-
-Profissional em constante evolução, como *Desenvolvedor Node.JS*. Ensino Superior concluído, pela Instituição de Ensino Pitágoras no curso "Redes de Computadores".
-
+🔭 Atualmente desenvolvedor ***BackEnd*** 
+- Inglês: básico escuto, falo e escrevo pouco;
+- Linguagens de programação: Javascript e Typescript com Node.js, HTML, CSS;
+- Bancos de dados: Postgres, MySql, MongoDB e NodeJS;
+- Bibliotecas: Nest, Express, TypeORM, Prisma, etc;
+- Ferramentas desenvolvimento: Docker, Git, GitLab;
+- Arquiteturas: Monolithic Apps, Microservices, REST;
+- Heroku.
+- Testes unitários TDD
+- S.O Linux.
+- 
 ##
 
 <div>
