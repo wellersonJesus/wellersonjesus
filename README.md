@@ -2,12 +2,12 @@
 
 🔭 Profissional em evolução. Ensino Superior concluído, Faculdade Pitágoras "Redes de Computadores".
 
-- Desenvolvedor Node.JS ***BackEnd*** 
-- Inglês: básico;
-- Linguagens de programação: Javascript e Typescript com Node.js, HTML, CSS;
-- Bancos de dados: Postgres, MySql, MongoDB e NodeJS;
+- Desenvolvedor Node.JS ***FullCycle** 
+- Inglês: intermediario;
+- Linguagens: JavaScript, Java, Python, PHP, TypeScript;
+- Ferramentas: Visual Studio Code, IntelliJ IDEA, Eclipse, PyCharm, Sublime Text, Vim, Git, npm (Node Package Manager), Yarn, Composer, Terraform, Docker, JUnit (Java), Mocha (JavaScript), GitLab CI/CD, GitHub,
+JIRA, Trello, Asana
 - Bibliotecas: Nest, Express, TypeORM, Prisma, etc;
-- Ferramentas desenvolvimento: Docker, Git, GitLab;
 - Arquiteturas: Monolithic Apps, Microservices, REST;
 - Heroku.
 - Testes unitários TDD
