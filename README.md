@@ -2,7 +2,7 @@
 
 🔭 Profissional em evolução. Ensino Superior concluído, Faculdade Pitágoras "Redes de Computadores".
 
-- Desenvolvedor Node.JS ***FullCycle** 
+- Desenvolvedor ***FullCycle** 
 - Inglês: intermediario;
 - Linguagens: JavaScript, Java, Python, PHP, TypeScript;
 - Ferramentas: Visual Studio Code, IntelliJ IDEA, Eclipse, PyCharm, Sublime Text, Vim, Git, npm (Node Package Manager), Yarn, Composer, Terraform, Docker, JUnit (Java), Mocha (JavaScript), GitLab CI/CD, GitHub,
